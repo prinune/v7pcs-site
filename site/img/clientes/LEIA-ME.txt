@@ -1,0 +1,2 @@
+Logos dos clientes: cliente-01.png, cliente-02.png ... até cliente-30.png
+O carrossel "Nossos clientes" aparece sozinho quando houver logos aqui.

@@ -1,0 +1,3 @@
+Logos dos parceiros (PNG com fundo transparente), com estes nomes:
+microsoft.png  vmware.png  dell.png  cisco.png  bitdefender.png
+A seção "Nossos parceiros" aparece sozinha quando os arquivos estiverem aqui.

@@ -1,0 +1,14 @@
+services:
+  v7pcs-site:
+    build: .
+    container_name: v7pcs-site
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8081:80"   # só para teste dentro da VM
+    networks:
+      - default
+      - v7pcs_default         # rede do Caddy (projeto v7pcs)
+
+networks:
+  v7pcs_default:
+    external: true

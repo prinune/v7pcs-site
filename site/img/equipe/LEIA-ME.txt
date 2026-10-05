@@ -1,0 +1,2 @@
+Fotos da equipe (retrato vertical, ~800x1000): priscilla.jpg, pedro.jpg, douglas.jpg
+Sem foto, o site mostra as iniciais.
