@@ -1,0 +1,767 @@
+{
+  "asset_404": [],
+  "base": "http://preview",
+  "html_pages": 18,
+  "viewports": [
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 360,
+      "height": 800,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 390,
+      "height": 844,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 430,
+      "height": 932,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 768,
+      "height": 1024,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 1366,
+      "height": 768,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 1440,
+      "height": 900,
+      "passed": true
+    },
+    {
+      "page": "antivirus-corporativo.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "backup-em-nuvem.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "contato.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "desenvolvimento-de-software.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "index.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "infraestrutura-de-ti.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "licencas-microsoft.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "link-dedicado.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "manutencao-de-computadores.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "orcamento-software.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "produtos-de-informatica.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "produtos.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "quem-somos.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "seguranca-da-informacao.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "servicos.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "suporte-tecnico.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "ti-para-saude.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    },
+    {
+      "page": "virtualizacao-vmware.html",
+      "width": 1920,
+      "height": 1080,
+      "passed": true
+    }
+  ],
+  "js_errors": [],
+  "console_errors": [],
+  "preexisting_missing_assets": [],
+  "console_error_count": 0
+}

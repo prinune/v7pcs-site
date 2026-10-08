@@ -63,9 +63,9 @@ if (slider) {
 }
 
 // Carrega só as imagens que existem
-const carregar = lista => Promise.all(lista.map(it => new Promise(ok => {
+const carregar = lista => fetch("assets/media-availability.json").then(r => r.json()).then(disponiveis => Promise.all(lista.filter(it => disponiveis.includes(it.logo)).map(it => new Promise(ok => {
   const i = new Image(); i.onload = () => ok(it); i.onerror = () => ok(null); i.src = it.logo;
-}))).then(r => r.filter(Boolean));
+}))).then(r => r.filter(Boolean))).catch(() => []);
 
 // Parceiros
 const pg = document.getElementById("parceiros");
