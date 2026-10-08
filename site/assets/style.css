@@ -526,3 +526,19 @@ blockquote{margin:1rem 0 0;padding-left:1rem;border-left:3px solid var(--signal)
 .fa-item strong{font-size:1.02rem}
 .fa-item span{font-size:.95rem}
 .f-area .btn{padding:.7rem 1.1rem}
+
+/* Marca institucional: símbolo V7 original e nome em texto responsivo. */
+.brand{display:flex;align-items:center;gap:.75rem;min-width:0}
+.brand .logo-svg{height:48px;width:70px;flex:none}
+.brand .logo-svg g{display:none}
+.brand-label{display:block;min-width:0;line-height:1.2}
+.brand-label strong{display:block;font-family:var(--display);font-size:1.15rem}
+.brand-institutional{display:block;font-size:.85rem;margin-top:.15rem}
+.brand-short{display:none}
+@media(max-width:1020px){
+ .site-header .brand-label{display:flex;align-items:baseline;gap:.3rem}
+ .site-header .brand-institutional{display:none}
+ .site-header .brand-short{display:inline;font-family:var(--display);font-weight:700;font-size:1.15rem}
+}
+
+.brand-name-short{white-space:nowrap}
